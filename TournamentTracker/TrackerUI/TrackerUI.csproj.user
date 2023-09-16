@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\CreatePrizeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CreateTeamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CreateTournamentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TournamentDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TournamentViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

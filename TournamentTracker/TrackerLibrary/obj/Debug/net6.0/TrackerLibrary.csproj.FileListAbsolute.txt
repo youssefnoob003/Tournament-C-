@@ -1,0 +1,12 @@
+C:\Users\gumba\OneDrive\Documents\tournament_proj\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.deps.json
+C:\Users\gumba\OneDrive\Documents\tournament_proj\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.dll
+C:\Users\gumba\OneDrive\Documents\tournament_proj\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.pdb
+C:\Users\gumba\OneDrive\Documents\tournament_proj\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Users\gumba\OneDrive\Documents\tournament_proj\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumba\OneDrive\Documents\tournament_proj\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\gumba\OneDrive\Documents\tournament_proj\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.AssemblyInfo.cs
+C:\Users\gumba\OneDrive\Documents\tournament_proj\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gumba\OneDrive\Documents\tournament_proj\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.dll
+C:\Users\gumba\OneDrive\Documents\tournament_proj\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\refint\TrackerLibrary.dll
+C:\Users\gumba\OneDrive\Documents\tournament_proj\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.pdb
+C:\Users\gumba\OneDrive\Documents\tournament_proj\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\ref\TrackerLibrary.dll
